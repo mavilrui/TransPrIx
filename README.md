@@ -7,6 +7,8 @@ Software repository for the article **"Transformer-Based Probabilistic Indexing 
 The scripts required to build the Transformer-based PrIx system will be made publicly available upon publication of the article.
 
 ## Page Distribution for Each Fold Combination
+
+The page distribution selected for each fold (5-fold cross-validation) in each of the datasets (Salzinnes and Einsiedeln) in our experiments.
  
 | Fold | Salzinnes Train | Salzinnes Validation | Salzinnes Test | Einsiedeln Train | Einsiedeln Validation | Einsiedeln Test |
 |------|-----------------|----------------------|----------------|------------------|----------------------|-----------------|
